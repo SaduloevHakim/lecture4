@@ -1,8 +1,11 @@
 # What is ARRAY in JavaScript
 ##### An array is a data structure that stores a collection of elements, typically of the same type, in a contiguous block of memory. In JavaScript, an array is a special type of object that allows for storing multiple values in a single variable. Arrays in JavaScript can hold different types of elements, such as numbers, strings, objects, or even other arrays. They are commonly used for storing and manipulating lists of data.
 
+>
+>
+>
 
-Array Methods:
+### Array Methods:
 JavaScript provides a wide range of built-in methods to manipulate arrays. Let's explore some commonly used ones:
 
 1. push() and pop():
@@ -35,9 +38,13 @@ JavaScript provides a wide range of built-in methods to manipulate arrays. Let's
 - Applies a function against an accumulator and each element in the array to reduce it to a single value.
 
 
+>
+>
+>
+>
+>
 
-
-Array Method callbacks
+### Array Method callbacks
 1. forEach(): The forEach() method calls a provided callback function once for each element in an array, in ascending order. This is useful for iterating through the array and performing some operation on each element.
 
 2. map(): The map() method creates a new array with the results of calling a provided function on every element in the calling array. This is useful for transforming the elements in the array and creating a new array with the transformed values.
