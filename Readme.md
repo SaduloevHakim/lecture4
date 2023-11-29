@@ -33,3 +33,15 @@ JavaScript provides a wide range of built-in methods to manipulate arrays. Let's
 
 9. reduce():
 - Applies a function against an accumulator and each element in the array to reduce it to a single value.
+
+
+
+
+Array Method callbacks
+1. forEach(): The forEach() method calls a provided callback function once for each element in an array, in ascending order. This is useful for iterating through the array and performing some operation on each element.
+
+2. map(): The map() method creates a new array with the results of calling a provided function on every element in the calling array. This is useful for transforming the elements in the array and creating a new array with the transformed values.
+
+3. filter(): The filter() method creates a new array with all elements that pass the test implemented by the provided function. This is useful for filtering out elements from the array based on a certain condition.
+
+4. reduce(): The reduce() method applies a function against an accumulator and each element in the array (from left to right) to reduce it to a single value. This is useful for performing some operation on all elements in the array and returning a single value.
